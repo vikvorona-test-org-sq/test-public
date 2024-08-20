@@ -1,0 +1,6 @@
+projectKey=org.sonarsource.scanner.vsts:sonar-scanner-vsts-sonarcloud
+serverUrl=https://vorona.ngrok.io
+serverVersion=10.7-SNAPSHOT
+dashboardUrl=https://vorona.ngrok.io/dashboard?id=org.sonarsource.scanner.vsts%3Asonar-scanner-vsts-sonarcloud
+ceTaskId=254566c7-b789-4769-a7f0-a17b2221e3ea
+ceTaskUrl=https://vorona.ngrok.io/api/ce/task?id=254566c7-b789-4769-a7f0-a17b2221e3ea
