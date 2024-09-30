@@ -1,0 +1,64 @@
+{
+  "rules": [
+    {
+      "id": "rule1",
+      "name": "just_some_rule_name",
+      "description": "just_some_description",
+      "engineId": "test",
+      "cleanCodeAttribute": "FORMATTED",
+      "impacts": [
+        {
+          "softwareQuality": "MAINTAINABILITY",
+          "severity": "INFO"
+        },
+        {
+          "softwareQuality": "SECURITY",
+          "severity": "BLOCKER"
+        }
+      ]
+    },
+    {
+      "id": "rule2",
+      "name": "just_some_rule_name2",
+      "description": "just_some_description2",
+      "engineId": "test",
+      "cleanCodeAttribute": "FORMATTED",
+      "impacts": [
+        {
+          "softwareQuality": "SECURITY",
+          "severity": "HIGH"
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "ruleId": "rule1",
+      "effortMinutes": 40,
+      "primaryLocation": {
+        "message": "fix the issue here",
+        "filePath": "./src/backend.js",
+        "textRange": {
+          "startLine": 2,
+          "startColumn": 2,
+          "endLine": 2,
+          "endColumn": 4
+        }
+      }
+    },
+    {
+      "ruleId": "rule2",
+      "effortMinutes": 40,
+      "primaryLocation": {
+        "message": "fix the issue here",
+        "filePath": "./src/backend.js",
+        "textRange": {
+          "startLine": 2,
+          "startColumn": 2,
+          "endLine": 2,
+          "endColumn": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 organization=vikvorona-test-org-sq
 projectKey=vikvorona-test-org-sq_test-public
-serverUrl=https://sc-staging.io
-serverVersion=8.0.0.56299
-dashboardUrl=https://sc-staging.io/dashboard?id=vikvorona-test-org-sq_test-public
-ceTaskId=AZFMKZfn5tvWWsDdsMLU
-ceTaskUrl=https://sc-staging.io/api/ce/task?id=AZFMKZfn5tvWWsDdsMLU
+serverUrl=https://squad-3-core.sc-dev.io
+serverVersion=8.0.0.56825
+dashboardUrl=https://squad-3-core.sc-dev.io/dashboard?id=vikvorona-test-org-sq_test-public
+ceTaskId=AZIyyCfH3tdg0wb4o2h6
+ceTaskUrl=https://squad-3-core.sc-dev.io/api/ce/task?id=AZIyyCfH3tdg0wb4o2h6
