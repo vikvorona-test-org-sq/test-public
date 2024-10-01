@@ -4,9 +4,6 @@ const iv = "12345";
 
 // test
 // lol
-crypto.createCipheriv("DES", key, iv); // Noncompliant
-
-location.href = "javascript:void(0)"; // Sensitive
 
 // AZBURwZL83ztCUnc4EG6
 // AZBURwZL83ztCUnc4EG5
